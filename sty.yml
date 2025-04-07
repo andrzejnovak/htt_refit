@@ -1,0 +1,48 @@
+data:
+  label: Data
+  color: black
+  hatch: null
+  yield: 0
+total_signal:
+  label: Total Signal
+  color: red
+  hatch: null
+  yield: 0
+h125:
+  label: '$H \to \tau\tau$'
+  color: '#bd1f01'
+  hatch: null
+  yield: 0.6949
+ztt:
+  label: '$Z \to \tau\tau$'
+  color: '#ffa90e'
+  hatch: null
+  yield: 79.0526
+vother:
+  label: V(other)
+  color: '#92dadd'
+  hatch: null
+  yield: 11.145
+wlnu:
+  label: '$W \to l\nu$'
+  color: '#3f90da'
+  hatch: null
+  yield: 151.1453 
+top:
+  label: Top
+  color: '#832db6'
+  hatch: null
+  # yield: 162.5024
+qcd:
+  label: Multijet
+  color: '#94a4a2'
+  hatch: null
+  # yield: 32.5519
+total:
+  label: total
+  color: '#e76300'
+  hatch: null
+total_background:
+  label: total_background
+  color: '#b9ac70'
+  hatch: null
